@@ -4,36 +4,36 @@ body {
 }
 
 #container {
-	height: 100vh;
+    height: 100vh;
 }
 
 #boardContainer {
-	margin: 0 auto auto auto;
-	background-color: #666666;
-	border: white 7px outset;
-	width: 396px;
-	height: 396px;
+    margin: 0 auto auto auto;
+    background-color: #666666;
+    border: white 7px outset;
+    width: 396px;
+    height: 396px;
 }
 
 div.space {
-	background-color: #444444;
-	float: left;
-	border: white 1px solid;
-	width: 130px;
-	height: 130px;
-	font-size: 128px;
-	font-family: sans-serif;
-	text-align: center;
+    background-color: #444444;
+    float: left;
+    border: white 1px solid;
+    width: 130px;
+    height: 130px;
+    font-size: 128px;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 span.X {
-	color: red;
+    color: red;
 }
 
 span.O {
-	color: blue;
+    color: blue;
 }
 
 span.winner {
-	text-align: center;
+    text-align: center;
 }
